@@ -13,6 +13,4 @@ Here you can find most of my personal/educational projects, all made from scratc
 - 💡 Passionate about problem solving
 - 💻 Currently learning Django
 
-Thanks!
-
 [![famgz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=famgz&layout=compact&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
