@@ -7,7 +7,7 @@
 ## My name is Fillipe
 ( Python | Javascript | HTML | CSS | Java )
 
-Here you can find most of my personal/educational projects, all made from scratch.
+Here you can find some of the educational exercises and my personal projects (all made from scratch).
 
 - 🎓 Software Development Student
 - 💡 Passionate about problem solving
