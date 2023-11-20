@@ -1,7 +1,6 @@
 
 <h1>Hey! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/famgz/)](https://www.linkedin.com/in/famgz/)
 [![Email Badge](https://img.shields.io/badge/-famgz@proton.me-6633cc?style=flat-square&logo=Proton&logoColor=white&link=mailto:famgz@proton.me)](mailto:famgz@proton.me)
 
 ## My name is Fillipe
