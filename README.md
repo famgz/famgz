@@ -4,7 +4,7 @@
 [![Email Badge](https://img.shields.io/badge/-famgz@proton.me-6633cc?style=flat-square&logo=Proton&logoColor=white&link=mailto:famgz@proton.me)](mailto:famgz@proton.me)
 
 ## My name is Fillipe
-( Python | Javascript | HTML | CSS | Java )
+( Python | Javascript | HTML | CSS | Java | PHP | Node | SQL )
 
 Here you can find some educational exercises and most of my personal projects (all made from scratch).
 
