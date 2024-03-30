@@ -1,5 +1,4 @@
-
-<h1>Hey! 👋</h1>
+<h1>Hey there! 👋</h1>
 
 [![Email Badge](https://img.shields.io/badge/-famgz@proton.me-6633cc?style=flat-square&logo=Proton&logoColor=white&link=mailto:famgz@proton.me)](mailto:famgz@proton.me)
 
