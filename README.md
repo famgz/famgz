@@ -4,7 +4,7 @@
 [![Email Badge](https://img.shields.io/badge/-famgz@proton.me-6633cc?style=flat-square&logo=Proton&logoColor=white&link=mailto:famgz@proton.me)](mailto:famgz@proton.me)
 
 ## My name is Fillipe
-( Python | React | NextJS | Node | Typescript | Java | Flask | Django | MongoDB | SQL | PHP )
+( Python | React | NextJS | Node | Typescript | Tailwind | Java | Flask | Django | MongoDB | SQL | PHP | HTML+CSS )
 
 
 Here you can find some educational exercises and most of my personal projects (all made from scratch).
