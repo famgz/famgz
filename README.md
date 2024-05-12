@@ -5,6 +5,7 @@
 ## My name is Fillipe
 ( Python | React | NextJS | Node | Typescript | Tailwind | Java | Flask | Django | MongoDB | SQL | PHP | HTML+CSS )
 
+
 Here you can find most of my projects (all made from scratch) and some exercises.
 
 - 🎓 Software Development Student
