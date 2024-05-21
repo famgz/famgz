@@ -3,7 +3,7 @@
 [![Email Badge](https://img.shields.io/badge/-famgz@proton.me-6633cc?style=flat-square&logo=Proton&logoColor=white&link=mailto:famgz@proton.me)](mailto:famgz@proton.me)
 
 ## My name is Fillipe
-( Python | React | NextJS | Node | Typescript | Tailwind | Java | Flask | Django | MongoDB | SQL | PHP | HTML+CSS )
+( Python | Typescript | React | NextJS | Node | Tailwind | Java | Flask | Django | MongoDB | SQL | PHP | HTML+CSS )
 
 
 Here you can find most of my projects (all made from scratch) and some exercises.
