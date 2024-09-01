@@ -6,7 +6,14 @@
 ### My name is Fillipe
 
 
-Main Skills
+Here you can find most of my projects, all made from scratch.
+
+
+- 🎓 Software Development Student
+- 💡 Passionate about problem solving
+- 💻 Currently improving my skills on NextJS and Spring Boot
+
+#### Main Skills
 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -20,13 +27,5 @@ Main Skills
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-
-
-Here you can find most of my projects, all made from scratch.
-
-
-- 🎓 Software Development Student
-- 💡 Passionate about problem solving
-- 💻 Currently improving my skills on NextJS and Spring Boot
 
 [![famgz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=famgz&layout=compact&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
