@@ -8,9 +8,8 @@
 
 Here you can find most of my projects, all made from scratch.
 
-
-- 🎓 Software Development Student
-- 💡 Passionate about problem solving
+- 🎓 Software Development
+- 💡 Motivated to solve problems
 - 💻 Currently improving my skills on NextJS and Spring Boot
 
 #### Main Skills
