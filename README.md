@@ -4,7 +4,7 @@
 
 ### My name is Fillipe
 
-Here you can find most of my projects, all made from scratch.
+Here you can find most of my projects and works, all made from scratch.
 
 - 🎓 Software Development
 - 💡 Motivated to solve problems
