@@ -2,7 +2,7 @@
 
 [![Email Badge](https://img.shields.io/badge/-famgz@proton.me-6633cc?style=flat-square&logo=Proton&logoColor=white&link=mailto:famgz@proton.me)](mailto:famgz@proton.me)
 
-### Fillipe here
+### Fillipe Miranda
 
 Here you can find most of my projects and works, all made from scratch.
 
@@ -10,7 +10,7 @@ Here you can find most of my projects and works, all made from scratch.
 - 💡 Motivated to solve problems
 - 💻 Currently improving my skills on NextJS and Spring Boot
 
-#### My Main Skills
+#### Main Skills
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
