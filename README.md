@@ -2,7 +2,6 @@
 
 [![Email Badge](https://img.shields.io/badge/-famgz@proton.me-6633cc?style=flat-square&logo=Proton&logoColor=white&link=mailto:famgz@proton.me)](mailto:famgz@proton.me)
 
-
 ### Fillipe Miranda
 
 Here you can find most of my projects and works, all made from scratch.
@@ -10,7 +9,6 @@ Here you can find most of my projects and works, all made from scratch.
 - 🎓 Software Development
 - 💡 Motivated to solve problems
 - 💻 Currently improving my skills on NextJS and Spring Boot
-
 
 #### Main Skills
 
